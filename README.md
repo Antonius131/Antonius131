@@ -5,7 +5,7 @@
 <h3 align="center"> Hello Hello </h3>
 <p align="center">
    <samp>
-     Tv Series and Gaming Enthusiast, Feeding Cats Contributor, and the Most Ironic Creative in the world
+     Tv Series and Gaming Enthusiast, Self Improving founder, Feeding Cats Contributor, Most Ironic Creative in the world
      <br>
      In 🖤 with creative coding. Laravel and Vue are my current &#127773; and &#11088;  
      <br> 
