@@ -1,13 +1,23 @@
-<h3 align="center"><samp> Hello Hello 👋 </samp></h3>
+<div align="center">
+   <img alt="me" src="antonius.gif" style="height: 160px;">
+</div>
+
+<h3 align="center"> Hello Hello </h3>
 <p align="center">
    <samp>
-     Welcome to my Github! I'm a student at Boolean and a UI Designer 
-     <br>
      Tv Series and Gaming Enthusiast, Feeding Cats Contributor, and the Most Ironic Creative in the world
      <br>
-     Love creative coding. Laravel and Vue are my current &#127773; and &#11088;  
+     In 🖤 with creative coding. Laravel and Vue are my current &#127773; and &#11088;  
+     <br> 
   </samp>
 </p>
+
+<h6 align="center">
+   <samp>
+      Student at Boolean & UI Designer
+   </samp>
+</h6>
+
 <p align="center">
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3logoColor=white">
