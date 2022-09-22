@@ -5,18 +5,18 @@
 <h3 align="center"> Hello Hello </h3>
 <p align="center">
    <samp>
+      Developer Student & UI Designer
+   </samp>
+</p>
+
+<p align="center">
+   <samp>
      Tv Series and Gaming Enthusiast, Self Improving founder, Feeding Cats Contributor, Most Ironic Creative in the world
      <br>
-     In 🖤 with creative coding. Laravel and Vue are my current &#127773; and &#11088;  
+     In 🖤 with creative coding. Laravel and Vue.JS are my current &#127773; and &#11088;  
      <br> 
   </samp>
 </p>
-
-<h6 align="center">
-   <samp>
-      Student at Boolean & UI Designer
-   </samp>
-</h6>
 
 <p align="center">
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
