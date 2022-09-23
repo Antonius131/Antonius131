@@ -11,7 +11,7 @@
 
 <p align="center">
    <samp>
-     Tv Series and Gaming Enthusiast, Self Improving founder, Feeding Cats Contributor, Most Ironic Creative in the world
+     Tv Series and Gaming Enthusiast, Self Improving founder, Feeding Cats Contributor
      <br>
      In 🖤 with creative coding. Laravel and Vue.JS are my current &#127773; and &#11088;  
      <br> 
