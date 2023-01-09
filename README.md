@@ -13,7 +13,7 @@
    <samp>
      Tv Series and Gaming Enthusiast, Self Improving founder, Feeding Cats Contributor
      <br>
-     In 🖤 with creative coding. Laravel and Vue.JS are my current &#127773; and &#11088;  
+     In :blue_heart: with creative coding. Here is something I can do:  
      <br> 
   </samp>
 </p>
